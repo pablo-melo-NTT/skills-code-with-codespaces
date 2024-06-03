@@ -17,7 +17,7 @@ _Develop code using GitHub Codespaces and Visual Studio Code!_
 
 <!--
   <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
+  Review what we learned, ask for feedback, provide next steps. ejemplo
 -->
 
 ## Finish
